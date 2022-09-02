@@ -1,5 +1,14 @@
 {
   "$schema": "../profile.schema.json",
   "name": "Witval",
-  "identity": "51468B615127273A"
+  "identity": "51468B615127273A",
+  "team": [{
+    "ghuser": "anilcse", // github username
+    "from": "14-07-2015", // associated with Witval team from which date?
+    "to": "", // if empty, means the member is still associated with the team.
+  }, {
+    "ghuser": "gsk967", // github username
+    "from": "01-01-2016", // associated with Witval team from which date?
+    "to": "10-08-2022", // specify last date of the employee, if the member is not part of the team anymore. 
+  }]
 }
