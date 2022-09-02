@@ -1,0 +1,12 @@
+[
+  "cosmos/cosmos-sdk",
+  "cosmos/gaia",
+  "cosmos/ibc-go",
+  "cosmos/qa-integration",
+  "cosmos/cosmjs",
+  "cosmos/ibc",
+  "cosmos/awesome-cosmos",
+  "cosmos/interchain-security",
+  "cosmos/relayer",
+  "cosmos/ibc-tutorials",
+]
